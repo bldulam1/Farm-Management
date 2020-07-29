@@ -17,7 +17,7 @@ Farm Management
     * Recorder
   * Weight Inspections
     * Date
-    * Weight
+    * Weight (kg)
     * Recorder
   * Cage Transfers
     * Date
@@ -30,6 +30,7 @@ Farm Management
   * Diet Changes
     * Date
     * Feed Formula
+    * Feed Amount (kg)
     * Recorder
   * Disposal/Death
     * Date
@@ -51,7 +52,7 @@ Farm Management
     * Recorder
   * Weight Inspections
     * Date
-    * Weight
+    * Weight (kg)
     * Recorder
   * Cage Transfers
     * Date
@@ -64,8 +65,9 @@ Farm Management
   * Diet Changes
     * Date
     * Feed Formula
+    * Feed Amount (kg)
     * Recorder
-  * Breeding
+  * Mating
     * Date
     * Boar
     * Method (AI or actual breeding)
@@ -94,7 +96,7 @@ Farm Management
     * Recorder
   * Weight Inspections
     * Date
-    * Weight
+    * Weight (kg)
     * Recorder
   * Cage Transfers
     * Date
@@ -107,8 +109,14 @@ Farm Management
   * Diet Changes
     * Date
     * Feed Formula
+    * Feed Amount (kg)
     * Recorder
-  * Disposal/Death
+  * Matings
+    * Date
+    * Sow
+    * Method (AI or actual breeding)
+    * Recorder
+* Disposal/Death
     * Date
     * Cause of Death
     * Recorder
