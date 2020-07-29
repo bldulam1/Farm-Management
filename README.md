@@ -84,6 +84,7 @@
     - Date
     - Cause of Death
     - Recorder
+
 - **Boar**
   - Serial Number
   - Birthday
@@ -122,6 +123,31 @@
   - Date
   - Cause of Death
   - Recorder
+
+### Human Resource
+- Database
+  - Name
+  - Birthdate
+  - Employment Start Date
+  - Civil Status
+  - Work History
+    - Department
+    - Tasks
+      - Daily Tasks
+        - Task Name
+        - Inspection Date
+        - Inspector
+      - Weekly Tasks
+        - Task Name
+        - Inspection Date
+        - Inspector
+      - Monthly Tasks
+        - Task Name
+        - Inspection Date
+        - Inspector
+  - Shift Schedule
+  - Hourly Rate
+  - Attendance Records
 
 ### Weighing without a Scale
 
