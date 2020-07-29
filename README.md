@@ -23,7 +23,7 @@ Farm Management
     * Date
     * Cage Location
     * Recorder
-  * Health Records
+  * Health Issues
     * Date
     * Status/Condition
     * Recorder
@@ -62,7 +62,7 @@ Farm Management
     * Date
     * Status/Condition
     * Recorder
-  * Diet Changes
+  * Health Issues
     * Date
     * Feed Formula
     * Feed Amount (kg)
@@ -102,7 +102,7 @@ Farm Management
     * Date
     * Cage Location
     * Recorder
-  * Health Records
+  * Health Issues
     * Date
     * Status/Condition
     * Recorder
