@@ -132,4 +132,4 @@ This procedure is reported to be accurate to within 3%.
   - Length (meters)
 - Output
   - Weight (kg)
-    - 69.3 _ Length _ Heart Girth ^ 2
+    - 69.3 x Length x Heart Girth ^ 2
